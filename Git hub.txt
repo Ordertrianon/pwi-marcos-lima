@@ -1,0 +1,6 @@
+https://github.com/GhutsL/pwi-lucas-cruz.git
+
+
+
+ git config --global --unset-all user.mail
+    git config --global --unset-all user.name
